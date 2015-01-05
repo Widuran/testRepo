@@ -1,0 +1,13 @@
+---
+title: "RMarkdown"
+author: "Evan"
+date: '2015-01-05'
+output: html_document
+---
+
+This is an example of a title
+-----------------------------
+
+```{r}
+1+2
+```
