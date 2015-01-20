@@ -1,0 +1,10 @@
+---
+title: "seminar1"
+author: "Evan"
+date: '2015-01-19'
+output:
+  html_document:
+    keep_md: yes
+---
+
+Seminar1 coverd Github, first data exploration, and a biology primer.

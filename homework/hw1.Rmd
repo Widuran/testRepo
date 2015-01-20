@@ -1,0 +1,10 @@
+---
+title: "homework1"
+author: "Evan"
+date: '2015-01-19'
+output:
+  html_document:
+    keep_md: yes
+---
+
+Your version of homework 1 will have substantially more content.

@@ -1,13 +1,38 @@
 ---
-title: "RMarkdown"
+title: "Homepage"
 author: "Evan"
 date: '2015-01-05'
-output: html_document
+output:
+  html_document:
+    keep_md: yes
 ---
 
-This is an example of a title
------------------------------
+Evan's example repository
+=========================
 
+Group project details
+---------------------
+text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
+
+Seminars
+--------
+
+- asdf
+- sdfg
+- dfgh
+
+Homework
+--------
+
+- fghj
+
+While you're here
+-----------------
+
+Take note that Github can render R code executions nicely.
 ```{r}
-1+2
+hist(rnorm(100))
 ```
+
+But it doesn't work well with LATEX.
+$$\sum_{i=0}^\infty i^{-1} = \infty$$
