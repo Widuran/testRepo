@@ -17,14 +17,14 @@ text text text text text text text text text text text text text text text text 
 Seminars
 --------
 
-- asdf
-- sdfg
-- dfgh
+- [seminar0](https://github.com/wdurnoUBC/testRepo/blob/master/seminars/sem0.md)
+- [seminar1](https://github.com/wdurnoUBC/testRepo/blob/master/seminars/sem1.md)
+- [seminar2](https://github.com/wdurnoUBC/testRepo/blob/master/seminars/sem2.md)
 
 Homework
 --------
 
-- fghj
+- [Homework1](https://github.com/wdurnoUBC/testRepo/blob/master/homework/hw1.md)
 
 While you're here
 -----------------
